@@ -11,3 +11,8 @@
 ``` javascript
 var NewHome = "Thought I'd leave you alone?!";
 ```
+
+
+- [X] You made me speak using headers?
+- [X] You made an image of me didn't you??
+- [ ] Oh is that a code example for me?
